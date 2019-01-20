@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dulcet-provider-229115",
+  "private_key_id": "1d639f1cdfdf1868ade4571b358eaf9ffd5109d5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4zgQwWY8ujUEI\nFMxecKx8s8Cawzbaw2VzydKw2gPIBamWY8TezWyqKBwOU+RPNdkld1iZz4ovFTXl\nvSdeTYkqtxeKwqcLcys4GGDzegH1TP0+yHBFkSE/169JBL5Qlv4XvSMxy8oDu7vs\nV+RbNHSkV2FiEUjaFn8prVK6atnlh+R5bXlu5X6I1NHAi5DYzVdyPCy6rNipPpXq\nPiyXJPkIveRhLLK0agIUpOirX5trqPZLH1SXr6vWz48vPQLx9kXBbnS7G4pytkwW\nxdKnNwm1VZfW5dtiKG7jYCgH1JW+0MuQZrIMTH2kA8WgOuUz8kypmFrxX5QR4aKB\nqsqo6DnPAgMBAAECggEAKQdkGq/nf/hQVdD4RodRZCYsPq/Uf+EdpwVJx4W/jSrk\nqcTgsm59D5H0GKI7b/KOkSjb/Nn83dMhsi26jc89AsS/b0kj+QDKuZt/+s49nQ5I\nsyWg93DvJtNl0RpCfnXnV7HgHHAYG5gUcrZYtn8A3nOf5TvdJr4T4VbfpQ+P7MtM\nMl3WUygrGMzKkCeQXVZrLwtf/CKpJrA+kxvkqrK3HI95tqLW9Q/Dp/Rpt0AMnTp+\nl5Q9g8jigK1McRgBXZbnMYVIrssJicu8JA2F+N1YFvrdstw00fpkfybt7UDjE7DU\nmhurlsL8xZBnYOpEFk3TpMMfBJuAH+lsriTtVSHWMQKBgQDbucPLvgVx55AIHe+q\nf6Qa5u9KCcBViZ9JuHGPb92lQabe7S5ychrVZF45k+PHpPDAMwQhroENaBe/pmT8\nEhPHlWhPUU06qIxn7mVjW6i8fhIfz/w4nHT6RoQzQnJ6tHvveEeSm0bTcGXKHnpl\nk71fpFa1i527JNiZmztH2DwLIwKBgQDXUGUDN8f5wGm2TL7eWDJ7ZrGmEa6pmLff\nXcb80mni3nHx4tQsD/DtAF11AChTfWbAfcCsawXCZ0LtpkEF03VSor5JYAc93SSv\nM7aluceklZ+m8FKuPZqRi815dy3PF6JyQ65G6nwDgGn94GGlg6uDg3dHKoZmd2gI\n316YI3ynZQKBgH+GyMn2psheYq0jWte1L3Thtd5d3ICI2Kd74oUioxzoBsb6F+wa\np9JUZ4+5cwmLhKO4uFwoIQS79pSoKZJXl51N7PWkNVOnQZ6MsdHCACQuc6x9FWFy\nBT7BMLdjiHgJSqlJQRkpACl14c42dEmCPvZEtoK13r0gfIpimzxulyLLAoGBAIvC\nl47bKmcnSncWod5ZiYsoQa/2UlWr186ZZIy/WBP3KCdGgUqInm54ijFkBMkM4SGZ\nfvNsFLT3qi3weMx7UfBtyu598rVpUmKXQruYN8rRhGwsGr8XJbnL8XgisA143e0l\nmX5WvmDXffVZLIjvSul28Hm1VMA2ScVYmGJQxp0xAoGBAM8YB7YfnzBYZE6Ahu8x\nd6jkSCkpJxx9+NrHPaysrayNtJe5vetvyKqjWnPuLaUZirX3SbPIwIJnuIXF1jPc\nI0y63KzsfIwRR6mh6wGJ1U/SnaX6wlmdLGTCN86+f55cC2oMLrqQrEIpgPUGjgL6\nuVxyzdKhByb2cJqd+J5wHEBh\n-----END PRIVATE KEY-----\n",
+  "client_email": "uoft-hacks@dulcet-provider-229115.iam.gserviceaccount.com",
+  "client_id": "106356411271428891627",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uoft-hacks%40dulcet-provider-229115.iam.gserviceaccount.com"
+}
